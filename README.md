@@ -12,7 +12,7 @@
 
 
 
-### (Install (termux)
+### (Install (Termux)
 
 ````bash
 pkg update && pkg upgrade && pkg install python && pkg install python2 && pkg install git && pkg install nano && pkg install nano && pkg install
