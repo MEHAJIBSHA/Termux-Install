@@ -24,3 +24,20 @@ pkg install nano
 pkg install nano
 pkg install
 ````
+
+
+### (Working With Packages)
+
+````bash
+pkg search
+pkg install
+pkg upgrade
+````
+
+### (Subscribing to additional repositories)
+
+````bash
+pkg install root-repo
+pkg install x11-repo
+pkg install git
+````
