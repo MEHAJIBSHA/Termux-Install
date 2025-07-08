@@ -13,5 +13,5 @@ cd
 python
 python3
 node
-bash
+bash bot.sh
 ````
