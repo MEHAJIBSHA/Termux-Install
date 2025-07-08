@@ -11,44 +11,22 @@
 </p>
 
 
-### (Update The System)
 
-````bash
-apt update
-apt upgrade -y
-pkg update 
-pkg upgrade -y
-pkg install python
-pkg install python3
-pkg install git
-````
 
 ### (Install (Termux)
 
+
 ````bash
-pkg update
-pkg upgrade
-pkg install python
-pkg install python2
-pkg install git
-pkg install nano
-pkg install nano
-pkg install
+pkg update -y && pkg upgrade -y && apt update -y && apt upgrade -y && pkg install git && pkg install python -y
 ````
 
 
-### (Working With Packages)
+### (Install The Dependencies)
 
 ````bash
-pkg search
-pkg install
-pkg upgrade
-````
-
-### (Subscribing to additional repositories)
-
-````bash
-pkg install root-repo
-pkg install x11-repo
-pkg install git
+git clone
+cd
+python
+python3
+node
 ````
