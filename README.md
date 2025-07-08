@@ -29,4 +29,5 @@ cd
 python
 python3
 node
+bash
 ````
